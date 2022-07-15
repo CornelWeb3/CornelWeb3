@@ -89,6 +89,12 @@ Here are some ideas to get you started:
 
 ---
 
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21gxefnrm2q2rjuc3fstqdnja&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+---
+
 - :mailbox: You can make donations via crypto. I'll probably buy a tea 🍵 and donate also to charities.
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://commerce.coinbase.com/checkout/4f13f123-ddd2-49cb-a606-ae2ecd7dfcb2)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://commerce.coinbase.com/checkout/4f13f123-ddd2-49cb-a606-ae2ecd7dfcb2)
