@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [5 pași pentru a programa o aplicație blockchain](https://medium.com/@cryptofuture01/5-pasi-pentru-a-programa-o-aplicatie-blockchain-f8da534fa4c2?source=rss-e22450c98fe9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
