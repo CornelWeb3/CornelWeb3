@@ -80,14 +80,15 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cryptofuture01&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptofuture01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cryptofuture01&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptofuture01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 ---
 
+### :writing_hand: Blog Posts :
 
-- :mailbox: How to support me:
+
+- :mailbox: You can make donations via crypto. I'll probably buy a tea 🍵 and donate also to charities.
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://commerce.coinbase.com/checkout/4f13f123-ddd2-49cb-a606-ae2ecd7dfcb2)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://commerce.coinbase.com/checkout/4f13f123-ddd2-49cb-a606-ae2ecd7dfcb2)
 [![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)](https://commerce.coinbase.com/checkout/4f13f123-ddd2-49cb-a606-ae2ecd7dfcb2)
