@@ -86,7 +86,10 @@ Here are some ideas to get you started:
 ---
 
 ### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+---
 
 - :mailbox: You can make donations via crypto. I'll probably buy a tea 🍵 and donate also to charities.
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://commerce.coinbase.com/checkout/4f13f123-ddd2-49cb-a606-ae2ecd7dfcb2)
