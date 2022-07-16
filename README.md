@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=cryptofuture01&style=flat-square&color=blue" alt=""/> </div>
 
-<h1 align="center"> hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <h1/><br/>
+<h1 align="center"> Hi there, I'm Cornel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <h1/><br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -51,7 +51,9 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I solve problems on HackerRank and write web3 articles. Also studying blockchain projects.
 
-- :mailbox:How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-CornelWeb3-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cornel-web3/)   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cryptofuture01)   [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@CryptoFuture)
+- :mailbox:How to reach me:   [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cornel_web3/)  
+
+- Other accounts: [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cryptofuture01)   [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@CryptoFuture)
 
 
 ---
