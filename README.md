@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -38,7 +39,8 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there, I'm Cornel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <h1/><br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="475"/>
+  <a href="https://app.daily.dev/cornelweb3"><img src="https://api.daily.dev/devcards/452601890c304cb8ba6a6619f22859c5.png?r=f74" width="350" alt="Cornel's Dev Card"/></a>
 </div>
 
 ---
